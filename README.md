@@ -1,4 +1,3 @@
-[Resume master.md](https://github.com/user-attachments/files/35055649/Resume.master.md)
 [Duayne_Gregg_Resume_Master.docx](https://github.com/user-attachments/files/35055621/Duayne_Gregg_Resume_Master.docx)
 # Duayne Gregg — Web3 Security Researcher
 
